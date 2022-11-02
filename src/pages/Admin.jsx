@@ -4,7 +4,7 @@ import getAllUsersData from '../api/admin.api';
 import AdminSideBar from '../componets/AdminSideBar';
 import Table from '../componets/Table';
 import memoryUtil from '../utils/memory.util';
-import './css/admin.css';
+import '../asset/styles/admin.css';
 
 export default function Admin() {
   const navigate = useNavigate();
