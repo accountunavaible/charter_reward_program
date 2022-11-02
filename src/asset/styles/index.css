@@ -59,7 +59,7 @@ ul {
 .App_header_div-points {
   position: relative;
   min-height: 32rem;
-  background-image: url('./asset/img/giftcard.png');
+  background-image: url('../img/giftcard.png');
   background-size: 60rem 30rem;
   background-repeat: no-repeat;
 }
@@ -107,7 +107,6 @@ ul {
 .active {
   border-bottom: 4px solid #5bb8e4;
   color: #5bb8e4;
-
 }
 
 /* main */
